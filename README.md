@@ -60,7 +60,7 @@
 
 </br>
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote -->
 <table align="center">
   <tr>
     <td>
