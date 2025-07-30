@@ -3,6 +3,10 @@
 
 </br>
 
+![](https://komarev.com/ghpvc/?username=DanielEstocado)
+
+</br>
+
 ## 💫 About Me:
 
 - 🔭 I’m currently working at Jayreh Technology
