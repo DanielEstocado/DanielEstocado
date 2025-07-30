@@ -78,8 +78,6 @@
 
 </br>
 
----
-[![](https://visitcount.itsvg.in/api?id=DanielEstocado&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
