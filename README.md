@@ -27,11 +27,22 @@
 
 </br>
 
-# 📊 GitHub Stats:
-<h3 >I know it's not much yet. But I'll keep working on it.</h3>
+<h1 align="center">📊 GitHub Stats</h1>
+<h3 align="center">I know it's not much yet. But I'll keep working on it.</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=DanielEstocado&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEstocado&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</br>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=DanielEstocado&theme=monokai&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+    </td>
+    <td style="padding-left: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEstocado&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="350" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
 <!--
 ![](https://nirzak-streak-stats.vercel.app/?user=DanielEstocado&theme=dark&hide_border=false)<br/>
 
@@ -39,18 +50,30 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DanielEstocado&icon=0&color=0)](https://visitcount.itsvg.in)
   -->
+</br>
 
-  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DanielEstocado&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center">🏆 GitHub Trophies</h1>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DanielEstocado&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
 
 </br>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-![Rick Astley](https://github.com/user-attachments/assets/b7c60b4c-0083-457d-9fcf-4bf2a066d99a)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+    </td>
+    <td style="padding-left: 20px;">
+      <img src="https://github.com/user-attachments/assets/b7c60b4c-0083-457d-9fcf-4bf2a066d99a" alt="Rick Astley" width="265"/>
+    </td>
+  </tr>
+</table>
 
 </br>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=DanielEstocado&icon=0&color=0)](https://visitcount.itsvg.in)
 
