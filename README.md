@@ -1,5 +1,5 @@
-<h1 >Hi 👋, I'm Daniel</h1>
-<h3 >A passionate developer from the Philippines</h3>
+<h1 >Hi, I'm Daniel 👋</h1>
+<h3 >A passionate entry-level fullstack developer from Cavite, Philippines</h3>
 
 </br>
 
@@ -8,6 +8,10 @@
 - 🔭 I’m currently working at Jayreh Technology
 
 - 🌱 I’m currently learning **React**
+
+- 🎓 I major in BS in Computer Science 
+
+- 🏫 I'm an undergraduate student at Cavite State University
 
 
 </br>
@@ -26,10 +30,11 @@
 # 📊 GitHub Stats:
 <h3 >I know it's not much yet. But I'll keep working on it.</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=DanielEstocado&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=DanielEstocado&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEstocado&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--
 ![](https://nirzak-streak-stats.vercel.app/?user=DanielEstocado&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEstocado&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DanielEstocado&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -42,6 +47,10 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</br>
+
+![Rick Astley](https://github.com/user-attachments/assets/b7c60b4c-0083-457d-9fcf-4bf2a066d99a)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DanielEstocado&icon=0&color=0)](https://visitcount.itsvg.in)
