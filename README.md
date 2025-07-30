@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there! I'm Daniel 👋
+
+- 🔭 I’m currently working on JayrehTechnology
+- 🌱 I’m currently learning React
+
+<!--
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielEstocado&show_icons=true&theme=radical)
+-->
 
 <!--
 **DanielEstocado/DanielEstocado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
