@@ -48,10 +48,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</br>
-
 ![Rick Astley](https://github.com/user-attachments/assets/b7c60b4c-0083-457d-9fcf-4bf2a066d99a)
 
+</br>
 ---
 [![](https://visitcount.itsvg.in/api?id=DanielEstocado&icon=0&color=0)](https://visitcount.itsvg.in)
 
