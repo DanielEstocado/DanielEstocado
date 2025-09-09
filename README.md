@@ -9,7 +9,7 @@
 
 ## 💫 About Me:
 
-- 🔭 I’m currently working at Jayreh Technology
+- 🔭 I’m currently working at Jayreh IT Solutions
 
 - 🌱 I’m currently learning **React**
 
