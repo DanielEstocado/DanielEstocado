@@ -15,7 +15,7 @@
 
 - 🎓 I major in BS in Computer Science 
 
-- 🏫 I'm an undergraduate student at Cavite State University
+- 🏫 I'm a graduate student at Cavite State University
 
 
 </br>
